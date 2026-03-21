@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Sneha21Roy/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -49,4 +50,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sneha21Roy/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Sneha21Roy/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Sneha21Roy/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
