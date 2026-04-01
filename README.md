@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/Sneha21Roy/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0078-subsets](https://github.com/Sneha21Roy/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha21Roy/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha21Roy/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
