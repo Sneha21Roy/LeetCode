@@ -5,7 +5,12 @@ class Solution {
 
     public int solve(int[] nums, int index, int sum, int target) {
         if (index == nums.length) {
-            return sum == target ? 1 : 0;
+            if(sum==target){
+                return 1;
+            }
+            else{
+                return 0;
+            }
         }
 
         int plus = solve(nums, index + 1, sum + nums[index], target);
