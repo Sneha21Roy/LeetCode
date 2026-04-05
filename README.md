@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Sneha21Roy/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0494-target-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Sneha21Roy/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
