@@ -36,11 +36,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Sneha21Roy/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Sneha21Roy/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sneha21Roy/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Sneha21Roy/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Sneha21Roy/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
