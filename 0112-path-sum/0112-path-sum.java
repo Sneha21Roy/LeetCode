@@ -27,7 +27,7 @@ class Solution {
             TreeNode node = nodeStack.pop();
             int sum = sumStack.pop();
 
-            // check leaf
+            // check leaf (those do not have any child)
             if (node.left == null && node.right == null) {
                 if (sum == targetSum) return true;
             }
