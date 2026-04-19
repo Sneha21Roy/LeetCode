@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Sneha21Roy/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0113-path-sum-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Sneha21Roy/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0494-target-sum/) | Medium |
 ## Bit Manipulation
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sneha21Roy/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sneha21Roy/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Sneha21Roy/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sneha21Roy/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sneha21Roy/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -211,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sneha21Roy/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sneha21Roy/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
