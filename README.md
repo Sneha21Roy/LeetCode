@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Sneha21Roy/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Sneha21Roy/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Sneha21Roy/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Sneha21Roy/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Sneha21Roy/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Sneha21Roy/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Sneha21Roy/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Sneha21Roy/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sneha21Roy/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Sneha21Roy/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sneha21Roy/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Sneha21Roy/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Sneha21Roy/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sneha21Roy/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Sneha21Roy/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sneha21Roy/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
