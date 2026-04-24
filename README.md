@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Sneha21Roy/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Sneha21Roy/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sneha21Roy/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sneha21Roy/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
