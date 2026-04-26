@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sneha21Roy/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Sneha21Roy/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Sneha21Roy/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Sneha21Roy/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sneha21Roy/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## String Matching
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha21Roy/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Sneha21Roy/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0494-target-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
