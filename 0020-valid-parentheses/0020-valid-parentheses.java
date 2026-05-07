@@ -8,7 +8,7 @@ class Solution {
                 st.push(ch);// when the character is opening bracket it will be pushed
             }
             else{
-                if(st.isEmpty()) return false;// when nothing in stack return false
+                if(st.isEmpty()) return false;// If stack is empty → no opening bracket to match
                 char top=st.pop();
                 if((ch==')'&& top!='(')|| //when ever the bracket is closed it will give false
                   (ch=='}' && top!='{')||
