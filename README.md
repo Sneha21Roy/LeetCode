@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Sneha21Roy/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Sneha21Roy/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/Sneha21Roy/LeetCode/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Sneha21Roy/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Sneha21Roy/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Sneha21Roy/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Sneha21Roy/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Sneha21Roy/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Sneha21Roy/LeetCode/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Sneha21Roy/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Sneha21Roy/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
