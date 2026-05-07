@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Sneha21Roy/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Sneha21Roy/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Sneha21Roy/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Sneha21Roy/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Sneha21Roy/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sneha21Roy/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Sneha21Roy/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Sneha21Roy/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sneha21Roy/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Sneha21Roy/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Sneha21Roy/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Sneha21Roy/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/Sneha21Roy/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Sneha21Roy/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -288,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Sneha21Roy/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Sneha21Roy/LeetCode/tree/main/0258-add-digits/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
