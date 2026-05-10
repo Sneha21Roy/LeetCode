@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Sneha21Roy/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sneha21Roy/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Sneha21Roy/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sneha21Roy/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/Sneha21Roy/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sneha21Roy/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Sneha21Roy/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Sneha21Roy/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Sneha21Roy/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Sneha21Roy/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
