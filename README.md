@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/Sneha21Roy/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Sneha21Roy/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Sneha21Roy/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Sneha21Roy/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sneha21Roy/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Sneha21Roy/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha21Roy/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Sneha21Roy/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Sneha21Roy/LeetCode/tree/main/0190-reverse-bits/) | Easy |
