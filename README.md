@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Sneha21Roy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Sneha21Roy/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Sneha21Roy/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Sneha21Roy/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Sneha21Roy/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Sneha21Roy/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Sneha21Roy/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sneha21Roy/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Sneha21Roy/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Sneha21Roy/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sneha21Roy/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Sneha21Roy/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
@@ -342,4 +346,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0148-sort-list/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Sneha21Roy/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
