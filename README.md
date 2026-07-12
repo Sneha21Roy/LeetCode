@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sneha21Roy/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/Sneha21Roy/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sneha21Roy/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Sneha21Roy/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/Sneha21Roy/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sneha21Roy/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Sneha21Roy/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
