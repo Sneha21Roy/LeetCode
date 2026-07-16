@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sneha21Roy/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2765-longest-alternating-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/2765-longest-alternating-subarray/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha21Roy/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sneha21Roy/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sneha21Roy/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha21Roy/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha21Roy/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/Sneha21Roy/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha21Roy/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Sneha21Roy/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sneha21Roy/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha21Roy/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,11 +350,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Sneha21Roy/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Sneha21Roy/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha21Roy/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Sneha21Roy/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha21Roy/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha21Roy/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
