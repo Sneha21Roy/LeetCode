@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha21Roy/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Sneha21Roy/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Sneha21Roy/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Sneha21Roy/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Sneha21Roy/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Sneha21Roy/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Sneha21Roy/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Sneha21Roy/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
