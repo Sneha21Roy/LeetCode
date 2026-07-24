@@ -1,31 +1,33 @@
 class Solution {
     public int compress(char[] chars) {
+        int write = 0;
+        int read = 0;
 
-        int index = 0;
-        int i = 0;
-
-        while (i < chars.length) {
-
-            char current = chars[i];
+        while (read < chars.length) {
+            char current = chars[read];
             int count = 0;
 
-            while (i < chars.length && chars[i] == current) {
+            // Same characters count karo
+            while (read < chars.length && chars[read] == current) {
+                read++;
                 count++;
-                i++;
             }
 
-            chars[index++] = current;
+            // Character write karo
+            chars[write] = current;
+            write++;
 
+            // Count agar 1 se zyada hai
             if (count > 1) {
-
                 String str = String.valueOf(count);
 
-                for (char ch : str.toCharArray()) {
-                    chars[index++] = ch;
+                for (int i = 0; i < str.length(); i++) {
+                    chars[write] = str.charAt(i);
+                    write++;
                 }
             }
         }
 
-        return index;
+        return write;
     }
 }
