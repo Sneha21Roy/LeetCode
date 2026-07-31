@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sneha21Roy/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Sneha21Roy/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sneha21Roy/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sneha21Roy/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Sneha21Roy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sneha21Roy/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Sneha21Roy/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sneha21Roy/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
