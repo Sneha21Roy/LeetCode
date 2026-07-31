@@ -10,11 +10,11 @@ class Solution {
     }
 
         int find(int n,int[] dp){
-            if(n==0) return 1;
-            if(n==1) return 1;
-            if(dp[n]!=-1) return dp[n];
-            int n1=find(n-1,dp);
-            int n2=find(n-2,dp);
+                 if(n==0) return 1;
+                    if(n==1) return 1;
+                           if(dp[n]!=-1) return dp[n];
+                                 int n1=find(n-1,dp);
+                                  int n2=find(n-2,dp);
             return dp[n]=n1+n2;
         }
 
