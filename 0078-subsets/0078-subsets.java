@@ -1,32 +1,32 @@
-import java.util.*;
-
 class Solution {
+
+    List<List<Integer>> result = new ArrayList<>();
 
     public List<List<Integer>> subsets(int[] nums) {
 
-        List<List<Integer>> result = new ArrayList<>();
-        Stack<Integer> stack = new Stack<>();
-
-        generate(nums, 0, stack, result);
+        backtrack(0, nums, new ArrayList<>());
 
         return result;
     }
 
-    public void generate(int[] nums, int index, Stack<Integer> stack, List<List<Integer>> result) {
+    private void backtrack(int index, int[] nums, List<Integer> current) {
 
-        // Add current subset to result
-        result.add(new ArrayList<>(stack));
+        if(index == nums.length){
 
-        for (int i = index; i < nums.length; i++) {
-
-            // Include element(adding theelement)
-            stack.push(nums[i]);
-
-            // Recurse (moving to next element)
-            generate(nums, i + 1, stack, result);
-
-            // Backtrack back to element
-            stack.pop();
+            result.add(new ArrayList<>(current));
+            return;
         }
+
+        // Include
+
+        current.add(nums[index]);
+
+        backtrack(index + 1, nums, current);
+
+        current.remove(current.size()-1);
+
+        // Exclude
+
+        backtrack(index + 1, nums, current);
     }
 }
