@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sneha21Roy/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Sneha21Roy/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Sneha21Roy/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/Sneha21Roy/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sneha21Roy/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sneha21Roy/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
