@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Sneha21Roy/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Sneha21Roy/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sneha21Roy/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sneha21Roy/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha21Roy/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sneha21Roy/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/Sneha21Roy/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Sneha21Roy/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sneha21Roy/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sneha21Roy/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Sneha21Roy/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Sneha21Roy/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sneha21Roy/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -413,4 +415,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sneha21Roy/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sneha21Roy/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sneha21Roy/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
