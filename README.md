@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Sneha21Roy/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0143-reorder-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sneha21Roy/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Sneha21Roy/LeetCode/tree/main/0155-min-stack/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Sneha21Roy/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sneha21Roy/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Sneha21Roy/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sneha21Roy/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sneha21Roy/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Sneha21Roy/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sneha21Roy/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Sneha21Roy/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0143-reorder-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Sneha21Roy/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Sneha21Roy/LeetCode/tree/main/0231-power-of-two/) | Easy |
