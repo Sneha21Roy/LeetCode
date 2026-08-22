@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0705-design-hashset](https://github.com/Sneha21Roy/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Sneha21Roy/LeetCode/tree/main/0706-design-hashmap/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Sneha21Roy/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1701-average-waiting-time](https://github.com/Sneha21Roy/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Sneha21Roy/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sneha21Roy/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Sneha21Roy/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Sneha21Roy/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
