@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sneha21Roy/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Sneha21Roy/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Sneha21Roy/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sneha21Roy/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Sneha21Roy/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Sneha21Roy/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Sneha21Roy/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/Sneha21Roy/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Sneha21Roy/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Sneha21Roy/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sneha21Roy/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Sneha21Roy/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0012-integer-to-roman](https://github.com/Sneha21Roy/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Sneha21Roy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
