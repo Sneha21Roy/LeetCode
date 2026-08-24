@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha21Roy/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0134-gas-station](https://github.com/Sneha21Roy/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Sneha21Roy/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -485,4 +486,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Sneha21Roy/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/Sneha21Roy/LeetCode/tree/main/0134-gas-station/) | Medium |
 <!---LeetCode Topics End-->
