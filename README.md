@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Sneha21Roy/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sneha21Roy/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Sneha21Roy/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sneha21Roy/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Sneha21Roy/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Sneha21Roy/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0733-flood-fill](https://github.com/Sneha21Roy/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sneha21Roy/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sneha21Roy/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -516,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sneha21Roy/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sneha21Roy/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
