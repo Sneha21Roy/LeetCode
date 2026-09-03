@@ -558,4 +558,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1116-print-zero-even-odd](https://github.com/Sneha21Roy/LeetCode/tree/main/1116-print-zero-even-odd/) | Medium |
+| [1226-the-dining-philosophers](https://github.com/Sneha21Roy/LeetCode/tree/main/1226-the-dining-philosophers/) | Medium |
 <!---LeetCode Topics End-->
