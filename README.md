@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/Sneha21Roy/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0322-coin-change](https://github.com/Sneha21Roy/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sneha21Roy/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0376-wiggle-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0494-target-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0705-design-hashset](https://github.com/Sneha21Roy/LeetCode/tree/main/0705-design-hashset/) | Easy |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Sneha21Roy/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Sneha21Roy/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0494-target-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -521,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Sneha21Roy/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Sneha21Roy/LeetCode/tree/main/0134-gas-station/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
