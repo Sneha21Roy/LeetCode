@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/Sneha21Roy/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/Sneha21Roy/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Sneha21Roy/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Sneha21Roy/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/Sneha21Roy/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0763-partition-labels](https://github.com/Sneha21Roy/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Sneha21Roy/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Sneha21Roy/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1912-design-movie-rental-system](https://github.com/Sneha21Roy/LeetCode/tree/main/1912-design-movie-rental-system/) | Hard |
 ## Stack
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sneha21Roy/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -492,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sneha21Roy/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Sneha21Roy/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Sneha21Roy/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sneha21Roy/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Merge Sort
