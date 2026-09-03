@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1701-average-waiting-time](https://github.com/Sneha21Roy/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sneha21Roy/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Sneha21Roy/LeetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1912-design-movie-rental-system](https://github.com/Sneha21Roy/LeetCode/tree/main/1912-design-movie-rental-system/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha21Roy/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Sneha21Roy/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Sneha21Roy/LeetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
