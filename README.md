@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Sneha21Roy/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Sneha21Roy/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0289-game-of-life](https://github.com/Sneha21Roy/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0322-coin-change](https://github.com/Sneha21Roy/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sneha21Roy/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0494-target-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0494-target-sum/) | Medium |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Sneha21Roy/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Sneha21Roy/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Sneha21Roy/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0289-game-of-life](https://github.com/Sneha21Roy/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Sneha21Roy/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Sneha21Roy/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Sneha21Roy/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0289-game-of-life](https://github.com/Sneha21Roy/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [1603-design-parking-system](https://github.com/Sneha21Roy/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 | [1701-average-waiting-time](https://github.com/Sneha21Roy/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
