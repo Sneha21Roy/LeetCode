@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Sneha21Roy/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sneha21Roy/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0376-wiggle-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0494-target-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0705-design-hashset](https://github.com/Sneha21Roy/LeetCode/tree/main/0705-design-hashset/) | Easy |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Sneha21Roy/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Sneha21Roy/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0289-game-of-life](https://github.com/Sneha21Roy/LeetCode/tree/main/0289-game-of-life/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0733-flood-fill](https://github.com/Sneha21Roy/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Sneha21Roy/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Sneha21Roy/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Sneha21Roy/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Sneha21Roy/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0407-trapping-rain-water-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0733-flood-fill](https://github.com/Sneha21Roy/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Sneha21Roy/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sneha21Roy/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -549,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [1912-design-movie-rental-system](https://github.com/Sneha21Roy/LeetCode/tree/main/1912-design-movie-rental-system/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
