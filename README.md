@@ -581,4 +581,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1116-print-zero-even-odd](https://github.com/Sneha21Roy/LeetCode/tree/main/1116-print-zero-even-odd/) | Medium |
 | [1226-the-dining-philosophers](https://github.com/Sneha21Roy/LeetCode/tree/main/1226-the-dining-philosophers/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Sneha21Roy/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
