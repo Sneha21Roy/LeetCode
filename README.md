@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1912-design-movie-rental-system](https://github.com/Sneha21Roy/LeetCode/tree/main/1912-design-movie-rental-system/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha21Roy/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sneha21Roy/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2765-longest-alternating-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/2765-longest-alternating-subarray/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha21Roy/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/Sneha21Roy/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Sneha21Roy/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sneha21Roy/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha21Roy/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-design-parking-system](https://github.com/Sneha21Roy/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 | [1701-average-waiting-time](https://github.com/Sneha21Roy/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sneha21Roy/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha21Roy/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
