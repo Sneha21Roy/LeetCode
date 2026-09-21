@@ -575,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Heap (Priority Queue)
