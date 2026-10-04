@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Sneha21Roy/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Sneha21Roy/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sneha21Roy/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sneha21Roy/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0648-replace-words](https://github.com/Sneha21Roy/LeetCode/tree/main/0648-replace-words/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0696-count-binary-substrings](https://github.com/Sneha21Roy/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0763-partition-labels](https://github.com/Sneha21Roy/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Sneha21Roy/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0494-target-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -573,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Sneha21Roy/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Sneha21Roy/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/Sneha21Roy/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sneha21Roy/LeetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Bracket Sequences
@@ -581,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
