@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Sneha21Roy/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sneha21Roy/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sneha21Roy/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/Sneha21Roy/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0763-partition-labels](https://github.com/Sneha21Roy/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Sneha21Roy/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sneha21Roy/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sneha21Roy/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sneha21Roy/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Sneha21Roy/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/Sneha21Roy/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sneha21Roy/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sneha21Roy/LeetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -587,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sneha21Roy/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
