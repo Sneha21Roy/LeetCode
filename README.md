@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/Sneha21Roy/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0242-valid-anagram](https://github.com/Sneha21Roy/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Sneha21Roy/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Sneha21Roy/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Sneha21Roy/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0494-target-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -479,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Sneha21Roy/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/Sneha21Roy/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sneha21Roy/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Sneha21Roy/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Sneha21Roy/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Sneha21Roy/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0407-trapping-rain-water-ii](https://github.com/Sneha21Roy/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
