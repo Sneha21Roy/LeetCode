@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha21Roy/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sneha21Roy/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2765-longest-alternating-subarray](https://github.com/Sneha21Roy/LeetCode/tree/main/2765-longest-alternating-subarray/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sneha21Roy/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha21Roy/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Sneha21Roy/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1912-design-movie-rental-system](https://github.com/Sneha21Roy/LeetCode/tree/main/1912-design-movie-rental-system/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sneha21Roy/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Sneha21Roy/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Sneha21Roy/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sneha21Roy/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -602,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/Sneha21Roy/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sneha21Roy/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sneha21Roy/LeetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sneha21Roy/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
