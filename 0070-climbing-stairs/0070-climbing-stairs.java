@@ -2,7 +2,7 @@ class Solution {
     public int climbStairs(int n) {
         int dp[]=new int[n+1];
         Arrays.fill(dp,-1);
-       return find(n, dp);
+        return find(n, dp);
     }
      int find(int n, int[] dp) {
         if (n == 0) return 1;
@@ -12,5 +12,4 @@ class Solution {
          int n2=find(n-2,dp);
         return dp[n] = n1 + n2;
      }
-
 }
