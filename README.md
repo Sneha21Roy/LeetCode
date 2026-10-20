@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0705-design-hashset](https://github.com/Sneha21Roy/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Sneha21Roy/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/Sneha21Roy/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Sneha21Roy/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Sneha21Roy/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Sneha21Roy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Sneha21Roy/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Sneha21Roy/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
