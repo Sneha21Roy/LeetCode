@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sneha21Roy/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sneha21Roy/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha21Roy/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sneha21Roy/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -328,11 +329,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sneha21Roy/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Sneha21Roy/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Sneha21Roy/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Sneha21Roy/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
